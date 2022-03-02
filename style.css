@@ -1,0 +1,20 @@
+*  {
+	margin:0;
+	padding:0;
+}
+
+body {
+    background-color: rgb(3, 94, 94);
+    color: rgb(255, 255, 255);
+}
+
+.rodape-real{
+    size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(3, 94, 94);
+    color: white;
+    position:absolute;
+	bottom:0;
+	width:100%;
+}
